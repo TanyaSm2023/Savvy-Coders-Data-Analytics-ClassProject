@@ -1,7 +1,7 @@
 # EV Market Analysis in the U.S.
 Authors: Tatiana S., Jason M., Daniel L., Drew P., Joshua J., Matthew C., Tiana T.
 
-Please review our full analysis in our [Code Folder](https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-ClassProject/tree/main/DataSets) as well as our [presentation slides](<Savvy-Coders-Data-Analytics-ClassProject/blob/main/Savvy%20Coders%20Class%20Project%20Presentation.pptx>).
+Please review our full analysis in our [Code Folder](https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-ClassProject/tree/main/DataSets) as well as our [presentation slides](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-ClassProject/blob/main/Savvy%20Coders%20Class%20Project%20Presentation.pptx>).
 
 ## Overview
 This project aims to explore the current state and potential growth of the electric vehicle (EV) market in the United States. Through data analytics, it focuses on two main objectives:
@@ -104,6 +104,6 @@ The analysis conducted on the EV market in the United States reveals dynamic tre
 These next steps aim to further optimize the EV market infrastructure by tailoring charging station types and developing pricing structures that align with consumer needs while ensuring economic viability for stakeholders.
 
 ## For More Information
-Please review our full analysis in our [Code Folder](https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-ClassProject/tree/main/DataSets) as well as our [presentation slides](<Savvy-Coders-Data-Analytics-ClassProject/blob/main/Savvy%20Coders%20Class%20Project%20Presentation.pptx>). 
+Please review our full analysis in our [Code Folder](https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-ClassProject/tree/main/DataSets) as well as our [presentation slides](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-ClassProject/blob/main/Savvy%20Coders%20Class%20Project%20Presentation.pptx>). 
 # Information
 ### Please feel free to look at the rest of the repository for further analysis about this project. You can also look at the [Tableau Project](https://public.tableau.com/app/profile/tatiana.smirnova7482/viz/EVChargingStationInvestment_17046678214720/WhichStateCitytoInvestIn). 
